@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[5]:
+
+
+#factorial of 100
+result=1
+i=1
+while i<=100:
+    result=result*i
+    i=i+1
+print("The factorial of 100 is : {}".format(result))    
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
